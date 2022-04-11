@@ -24,7 +24,7 @@ import java.util.HashMap;
  *
  * @author wttch
  */
-public class Q1 {
+ class Q0001 {
     public int[] twoSum(int[] nums, int target) {
         int[] indexes = new int[2];
 

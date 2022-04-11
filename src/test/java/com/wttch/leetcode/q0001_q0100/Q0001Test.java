@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
 
-class Q1Test extends TestBase<Q1> {
+class Q0001Test extends TestBase<Q0001> {
 
   @Test
   void test() {
